@@ -1,7 +1,7 @@
 '''
 Created on 4 Nov 2021
 
-@author: Liam
+@author: Liam Downs
 '''
 
 import socket
